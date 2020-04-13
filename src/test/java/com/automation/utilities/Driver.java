@@ -6,7 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class Driver {
-    //same for everyone
+
     private static WebDriver driver;
 
     //so no one can create object of Driver class
