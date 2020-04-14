@@ -13,9 +13,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
-
-
-    <!--to fix java 5 version issue -->
     <build>
         <plugins>
             <plugin>
@@ -79,8 +76,6 @@
             <version>4.0.4</version>
         </dependency>
 
-
     </dependencies>
-
 
 </project>
